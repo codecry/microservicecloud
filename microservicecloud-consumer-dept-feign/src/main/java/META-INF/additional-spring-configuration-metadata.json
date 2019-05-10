@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "feign.hystrix",
+  "type": "java.lang.Mapping",
+  "description": "A description for 'feign.hystrix'"
+}]}
